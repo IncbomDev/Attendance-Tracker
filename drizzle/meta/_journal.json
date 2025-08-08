@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1754659549451,
+      "tag": "0000_pale_adam_destine",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1754661404545,
+      "tag": "0001_chilly_tony_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1754677440815,
+      "tag": "0002_puzzling_wither",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1754679345124,
+      "tag": "0003_secret_the_order",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1754686797692,
+      "tag": "0004_tough_norman_osborn",
+      "breakpoints": true
+    }
+  ]
+}
