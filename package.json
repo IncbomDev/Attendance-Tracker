@@ -7,16 +7,12 @@
 		"build": "next build",
 		"start": "next start",
 		"lint": "next lint",
-		"deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
-		"preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
-		"cf-typegen": "wrangler types --env-interface CloudflareEnv ./cloudflare-env.d.ts",
 		"drizzle:generate": "drizzle-kit generate --config ./drizzle.config.ts",
 		"drizzle:push": "drizzle-kit push",
 		"drizzle:studio": "drizzle-kit studio --config ./drizzle.config.ts",
         "drizzle:pull": "drizzle-kit pull --schema ./drizzle/schema.ts --config ./drizzle.config.ts"
 	},
 	"dependencies": {
-		"@opennextjs/cloudflare": "^1.6.5",
 		"@radix-ui/react-avatar": "^1.1.10",
 		"@radix-ui/react-checkbox": "^1.3.2",
 		"@radix-ui/react-collapsible": "^1.1.11",
